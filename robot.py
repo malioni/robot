@@ -20,3 +20,4 @@ def forward():
         "message": "Robot just went forward"
     })
 
+app.run(host="0.0.0.0")
